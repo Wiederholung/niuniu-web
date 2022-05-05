@@ -1,7 +1,10 @@
 <!--index.wxml-->
 <view class="container">
-  Weixin
+Weixin
 </view>
 <view>
 chy
 </view>
+<a href="baidu.com">
+baidu 
+</a>
