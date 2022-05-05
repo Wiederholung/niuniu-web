@@ -10,7 +10,7 @@
     },
     "tabBar": {
         "list":[{
-            "pagePath":"pages/home/home",
+            "pagePath":"pages/index/index",
             "text":"首页"
         },{
             "pagePath":"pages/message/message",
