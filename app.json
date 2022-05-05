@@ -2,17 +2,18 @@
     "pages": [
         "pages/index/index",
         "pages/message/message",
-        "pages/mine/mine"
+        "pages/mine/mine",
+        "pages/login/login"
     ],
     "window": {
+        "backgroundColor": "#66CCFF",
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "Weixin",
+        "navigationBarTitleText": "Niuniu Study",
         "navigationBarTextStyle": "black",
         "enablePullDownRefresh":true
     },
     "tabBar": {
-        
         "list":[{
             "pagePath":"pages/index/index",
             "text":"首页",

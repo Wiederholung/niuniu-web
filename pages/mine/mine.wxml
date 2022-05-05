@@ -22,19 +22,22 @@
   <view class="user_main">
     <view class="history_wrap">
       <navigator class="">
-        <view class="history_num">0</view>
+        <view class="history_num">2</view>
+        <view class="histoty_name">正在学</view>
+      </navigator>
+      <navigator>
+        <view class="history_num">5</view>
         <view class="histoty_name">收藏</view>
       </navigator>
-
-      <navigator class="">
-        <view class="history_num">0</view>
+      <navigator>
+        <view class="history_num">17</view>
         <view class="histoty_name">足迹</view>
       </navigator>
     </view>
     <view class="app_info_wrap">
-      <navigator url="../myprjlist/myprjlist">我的作品</navigator>
-      <navigator>我的成绩</navigator>
-      <navigator>联系老师</navigator>
+      <navigator url="../myprjlist/myprjlist">个人信息</navigator>
+      <navigator url="../myprjlist/myprjlist">个性化定制</navigator>
+      <navigator url="../myprjlist/myprjlist">联系我们</navigator>
     </view>
   </view>
 </view>

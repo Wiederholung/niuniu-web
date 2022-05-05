@@ -1,0 +1,23 @@
+Page,.img_wrapper{
+  height: 100%;
+}
+.img_wrapper{
+  position: relative;
+}
+.login-bg{
+  height: 100%;
+  width: 100%;
+  filter: blur(10rpx);
+}
+.login_btn{
+  position: absolute;
+  top: 20%;
+  transform: translate(-50%);
+  left: 50%;
+  text-align: center;
+}
+.logo{
+  width: 200rpx;
+  border-radius: 20%;
+  margin-bottom: 40rpx;
+}
