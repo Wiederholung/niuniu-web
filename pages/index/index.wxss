@@ -1,1 +1,10 @@
 /**index.wxss**/
+.swiper-item{
+  display: block;
+}
+.slide-image {
+  width: 100%;
+}
+swiper {
+  width: 100%;
+}
