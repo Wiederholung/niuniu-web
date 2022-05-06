@@ -10,25 +10,25 @@ Page({
         iconArray: [
             {
                 "id":1,
-                "iconUrl": '../../images/icon/black-board-f.png',
+                "iconUrl": '../../images/icon/vector.png',
                 "iconText": '自学路径推荐'
             },
             
             {
                 "id":2,
-                "iconUrl": '../../images/icon/black-board-f.png',
+                "iconUrl": '../../images/icon/location.png',
                 "iconText": 'Bry博客导航'
             },
             
             {
                 "id":3,
-                "iconUrl": '../../images/icon/black-board-f.png',
+                "iconUrl": '../../images/icon/science.png',
                 "iconText": '科研网站导航'
             },
             
             {
                 "id":4,
-                "iconUrl": '../../images/icon/black-board-f.png',
+                "iconUrl": '../../images/icon/tools.png',
                 "iconText": '常用工具教学'
             },
             
@@ -40,7 +40,7 @@ Page({
             
             {
                 "id":6,
-                "iconUrl": '../../images/icon/black-board-f.png',
+                "iconUrl": '../../images/icon/find.png',
                 "iconText": '发现'
             }
         ]
