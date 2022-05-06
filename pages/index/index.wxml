@@ -9,9 +9,9 @@
   </swiper>
 <!-- 中部 -->
 <view class="category">
-    <view class="category_item" wx:for="{{iconArray}}">
+    <navigator class="category_item" wx:for="{{iconArray}}" url="/pages/test1/test1?id={{item.id}}&title={{item.iconText}}">
         <image class="category_item_image" src="{{item.iconUrl}}"></image>
         <text class="category_item_text">{{item.iconText}}</text>
-    </view>
+    </navigator>
 </view>
 

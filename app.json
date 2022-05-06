@@ -9,7 +9,8 @@
         "pages/academic/academic",
         "pages/tools/tools",
         "pages/resources/resources",
-        "pages/discover/discover"
+        "pages/discover/discover",
+        "pages/test1/test1"
     ],
     "window": {
         "backgroundColor": "#66CCFF",
