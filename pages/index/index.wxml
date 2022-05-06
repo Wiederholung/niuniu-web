@@ -14,23 +14,23 @@
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">自学路径推荐</text>
     </navigator>
-    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+    <navigator class="category_item"url="/pages/blog/blog">
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">Bry博客导航</text>
     </navigator>
-    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+    <navigator class="category_item"url="/pages/academic/academic">
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">科研网站导航</text>
     </navigator>
-    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+    <navigator class="category_item"url="/pages/tools/tools">
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">常用工具教学</text>
     </navigator>
-    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+    <navigator class="category_item"url="/pages/resources/resources">
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">课内资源</text>
     </navigator>
-    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+    <navigator class="category_item"url="/pages/discover/discover">
         <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">发现</text>
     </navigator>
