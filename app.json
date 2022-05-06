@@ -3,7 +3,13 @@
         "pages/index/index",
         "pages/message/message",
         "pages/mine/mine",
-        "pages/login/login"
+        "pages/login/login",
+        "pages/selfStudy/selfStudy",
+        "pages/blog/blog",
+        "pages/academic/academic",
+        "pages/tools/tools",
+        "pages/resources/resources",
+        "pages/discover/discover"
     ],
     "window": {
         "backgroundColor": "#66CCFF",
