@@ -16,19 +16,7 @@
 				<!-- 第2个页面 -->
 				<view class="weui-tab_content" hidden="{{activeIndex != 1}}">
 					2
-				</view>
-				<!-- 第3个页面 -->
-				<view class="weui-tab_content" hidden="{{activeIndex != 2}}">
-					3
-				</view>
-				<!-- 第4个页面 -->
-				<view class="weui-tab_content" hidden="{{activeIndex != 3}}">
-					4
-				</view>
-				<!-- 第5个页面 -->
-				<view class="weui-tab_content" hidden="{{activeIndex != 4}}">
-					5
-				</view>
+				</view>	
 			</view>
 		</view>
   </view>

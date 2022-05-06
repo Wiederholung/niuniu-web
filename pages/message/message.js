@@ -2,7 +2,7 @@ var sliderWidth = 96; // 需要设置slider的宽度，用于计算中间位置
 const app = getApp()
 Page({
   data: {
-    tabs: ["标题A", "标题B", "标题C", "标题D", "标题E"],
+    tabs: ["评论", "私信"],
     activeIndex: 0,
     sliderOffset: 0,
     sliderLeft: 0
