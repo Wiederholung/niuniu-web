@@ -9,31 +9,37 @@ Page({
         // swiperList:[] //存放轮播图数据
         iconArray: [
             {
+                "id":1,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": '自学路径推荐'
             },
             
             {
+                "id":2,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": 'Bry博客导航'
             },
             
             {
+                "id":3,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": '科研网站导航'
             },
             
             {
+                "id":4,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": '常用工具教学'
             },
             
             {
+                "id":5,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": '课内资源'
             },
             
             {
+                "id":6,
                 "iconUrl": '../../images/icon/black-board-f.png',
                 "iconText": '发现'
             }
