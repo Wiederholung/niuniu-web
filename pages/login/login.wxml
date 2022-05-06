@@ -1,0 +1,8 @@
+<view class="img_wrapper">
+  <image class="login-bg" mode="scaleToFill" src="../../images/login.png"></image>
+  <view class="login_btn">
+    <image class="logo" mode="widthFix" src="../../images/logo.png"></image>
+    <button  type="default" plain open-type="getUserInfo" bindgetuserinfo="handleGetUserinfo">登录</button>
+  </view>
+</view>
+
