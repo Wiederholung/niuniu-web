@@ -10,9 +10,29 @@
 <!-- 中部 -->
 <view class="category">
     <!-- <navigator class="category_item" wx:for="{{iconArray}}" url="/pages/test1/test1?id={{item.id}}&title={{item.iconText}}"> -->
-    <navigator class="category_item" wx:for="{{iconArray}}" url="/pages/selfStudy/selfStudy">
-        <image class="category_item_image" src="{{item.iconUrl}}"></image>
-        <text class="category_item_text">{{item.iconText}}</text>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">自学路径推荐</text>
+    </navigator>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">Bry博客导航</text>
+    </navigator>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">科研网站导航</text>
+    </navigator>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">常用工具教学</text>
+    </navigator>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">课内资源</text>
+    </navigator>
+    <navigator class="category_item"url="/pages/selfStudy/selfStudy">
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
+        <text class="category_item_text">发现</text>
     </navigator>
 </view>
 
