@@ -1,4 +1,4 @@
-// pages/test1/test1.js
+// pages/outer/outer.js
 Page({
 
     /**

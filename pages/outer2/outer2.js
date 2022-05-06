@@ -1,4 +1,4 @@
-// pages/blog/blog.js
+// pages/outer2/outer2.js
 Page({
 
     /**
@@ -7,16 +7,7 @@ Page({
     data: {
 
     },
-    handleGoTo(){
-        wx.navigateTo({
-            "url": "../outer/outer"
-        })
-    },
-    handleGoTo2(){
-        wx.navigateTo({
-            "url": "../outer/outer2"
-        })
-    },
+
     /**
      * 生命周期函数--监听页面加载
      */
