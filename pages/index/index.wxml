@@ -11,11 +11,11 @@
 <view class="category">
     <view class="category_item" wx:for="{{iconArray}}">
         <view class="icon_wrap">
-        <image src="{{item.iconUrl}}" class="index_icon"></image>
-      </view>
-      <view class="category_item_text">
-        <text>{{item.iconText}}</text>
-      </view>
+            <image src="{{item.iconUrl}}" class="index_icon"></image>
+        </view>
+        <view class="category_item_text">
+            <text>{{item.iconText}}</text>
+        </view>
     </view>
 </view>
 
