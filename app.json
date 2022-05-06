@@ -30,8 +30,8 @@
         {
             "pagePath":"pages/message/message",
             "text":"消息",
-            "iconPath": "/images/icon/liststyle.png",
-            "selectedIconPath": "/images/icon/liststyle-r.png"  
+            "iconPath": "/images/icon/message.png",
+            "selectedIconPath": "/images/icon/message-r.png"  
         },
         {
           "pagePath":"pages/mine/mine",
