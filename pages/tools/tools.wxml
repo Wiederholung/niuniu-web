@@ -1,2 +1,38 @@
 <!--pages/tools/tools.wxml-->
-<text>pages/tools/tools.wxml</text>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>Pr</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        专业的视频剪辑软件
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>Ps</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        专业的图像处理软件
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>PPT</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        演示文稿教学
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>Excel</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        电子表格教学
+    </view>
+</view>
+

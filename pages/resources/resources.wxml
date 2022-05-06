@@ -1,2 +1,37 @@
 <!--pages/resources/resources.wxml-->
-<text>pages/resources/resources.wxml</text>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>高数</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        大一大二所有高数资源
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>概率论</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        概率论资源整合
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>企业管理</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        企业管理资源整合
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>Java</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        Java教学资源整合
+    </view>
+</view>

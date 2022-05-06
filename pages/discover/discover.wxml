@@ -1,2 +1,28 @@
 <!--pages/discover/discover.wxml-->
-<text>pages/discover/discover.wxml</text>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>提交新网站</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        提交新的学习网站，交予管理员审核
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>提交课内资源</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        提交新的课内资源，交予管理员审核
+    </view>
+</view>
+<view class="tips-wrapper mode-wrapper">
+    <view class="mode-title">
+        <text>打赏作者</text>
+        <navigator>more-></navigator>
+    </view>
+    <view class="tips-content">
+        激励作者，做得更好
+    </view>
+</view>
