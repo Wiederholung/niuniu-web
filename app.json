@@ -34,10 +34,17 @@
             "selectedIconPath": "/images/icon/message-r.png"  
         },
         {
+<<<<<<< HEAD
           "pagePath":"pages/mine/mine",
           "text":"我的",
           "iconPath": "/images/icon/my.png",
           "selectedIconPath": "/images/icon/my-r.png"
+=======
+            "pagePath":"pages/mine/mine",
+            "text":"我的",
+            "iconPath": "/images/icon/mine.png",
+            "selectedIconPath": "/images/icon/mine-r.png"
+>>>>>>> main
         }
         ]
     },
