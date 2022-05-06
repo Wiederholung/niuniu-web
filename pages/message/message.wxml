@@ -9,14 +9,19 @@
 				</block>
 			</view>
 			<view class="weui-tab__panel">
-				<!-- 第1个页面 -->
+				<!-- 评论页面 -->
 				<view class="weui-tab_content" hidden="{{activeIndex != 0}}">
-					1
-				</view>
-				<!-- 第2个页面 -->
+
+
+                <image class="nothing-icon" src="/images/icon/nothing.png" />
+
+                    </view>
+				<!-- 私信页面 -->
 				<view class="weui-tab_content" hidden="{{activeIndex != 1}}">
-					2
-				</view>	
+ 
+                <image class="nothing-icon" src="/images/icon/nothing.png" />
+				
+                    </view>	
 			</view>
 		</view>
   </view>
