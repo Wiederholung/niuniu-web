@@ -10,12 +10,8 @@
 <!-- 中部 -->
 <view class="category">
     <view class="category_item" wx:for="{{iconArray}}">
-        <view class="icon_wrap">
-            <image src="{{item.iconUrl}}" class="index_icon"></image>
-        </view>
-        <view class="category_item_text">
-            <text>{{item.iconText}}</text>
-        </view>
+        <image class="category_item_image" src="{{item.iconUrl}}"></image>
+        <text class="category_item_text">{{item.iconText}}</text>
     </view>
 </view>
 
