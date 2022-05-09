@@ -27,7 +27,7 @@
         <text class="category_item_text">常用工具教学</text>
     </navigator>
     <navigator class="category_item"url="/pages/resources/resources">
-        <image class="category_item_image" src="../../images/icon/Box 2.png"></image>
+        <image class="category_item_image" src="../../images/icon/black-board-f.png"></image>
         <text class="category_item_text">课内资源</text>
     </navigator>
     <navigator class="category_item"url="/pages/discover/discover">

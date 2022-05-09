@@ -10,8 +10,7 @@
         "pages/tools/tools",
         "pages/resources/resources",
         "pages/discover/discover",
-        "pages/outer/outer",
-        "pages/outer2/outer2"
+        "pages/test1/test1"
     ],
     "window": {
         "backgroundColor": "#66CCFF",
