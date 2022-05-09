@@ -2,9 +2,10 @@
 Page({
     data: {
         imgUrls: [
-            '../../images/icon/home.png',
-            '../../images/icon/home.png',
-            '../../images/code-cloud-callback-config.png'
+            '../../images/better call.webp',
+            '../../images/better call.webp',
+            '../../images/better call.webp'
+           
         ]
     },
     onload:function(){

@@ -1,2 +1,19 @@
-<!--pages/blog/blog.wxml-->
-<text>pages/blog/blog.wxml</text>
+<view class="mode">
+    <view >
+        <text class="mode-title">GitHub</text>
+        <button  size="mini" bindtap="handleGoTo2">【more->】</button>
+    </view>
+    <view class="tips-content">
+        技术人的天堂
+    </view>
+</view>
+<view class="mode">
+    <view >
+        <text class="mode-title">菜鸟教程</text>
+        <button  size="mini" bindtap="handleGoTo">【more->】</button>
+    </view>
+    <view class="tips-content">
+        菜鸟起飞
+    </view>
+</view>
+

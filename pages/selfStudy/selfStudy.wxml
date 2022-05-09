@@ -1,28 +1,28 @@
 <!--pages/selfStudy/selfStudy.wxml-->
 <view class="tips-wrapper mode-wrapper">
     <view class="mode-title">
-        <text>通知公告</text>
+        <text>Java</text>
         <navigator>more-></navigator>
     </view>
     <view class="tips-content">
-        请各位同学尽快完成组队，要求每组3-4人，请尽快提交组队信息。
+        一种可以撰写跨平台应用软件的面向对象的程序设计语言
     </view>
 </view>
 <view class="tips-wrapper mode-wrapper">
     <view class="mode-title">
-        <text>通知公告</text>
+        <text>Python</text>
         <navigator>more-></navigator>
     </view>
     <view class="tips-content">
-        请各位同学尽快完成组队，要求每组3-4人，请尽快提交组队信息。
+        Python3.x 版本，未来主流版本。
     </view>
 </view>
 <view class="tips-wrapper mode-wrapper">
     <view class="mode-title">
-        <text>通知公告</text>
+        <text>C语言</text>
         <navigator>more-></navigator>
     </view>
     <view class="tips-content">
-        请各位同学尽快完成组队，要求每组3-4人，请尽快提交组队信息。
+        一门通用计算机编程语言
     </view>
 </view>

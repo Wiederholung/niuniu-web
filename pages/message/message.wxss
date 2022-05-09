@@ -70,7 +70,7 @@
     margin-right: 10rpx;
   }
   
-
+  /*分割线*/
   
   .band1 {
     width: 100%;
@@ -79,7 +79,7 @@
     background: rgb(243, 243, 243);
   }
   
-
+  /*分割线*/
   
   .band2 {
     width: 100%;
